@@ -1,20 +1,19 @@
-# -RAG-and-AI-Agents-for-Healthcare
-MIT License
+This directory includes a few sample datasets to get you started.
 
-Copyright (c) 2024  Vidzai Digital
+*   `california_housing_data*.csv` is California housing data from the 1990 US
+    Census; more information is available at:
+    https://docs.google.com/document/d/e/2PACX-1vRhYtsvc5eOR2FWNCwaBiKL6suIOrxJig8LcSBbmCbyYsayia_DvPOOBlXZ4CAlQ5nlDD8kTaIDRwrN/pub
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+*   `mnist_*.csv` is a small sample of the
+    [MNIST database](https://en.wikipedia.org/wiki/MNIST_database), which is
+    described at: http://yann.lecun.com/exdb/mnist/
+
+*   `anscombe.json` contains a copy of
+    [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet); it
+    was originally described in
+
+    Anscombe, F. J. (1973). 'Graphs in Statistical Analysis'. American
+    Statistician. 27 (1): 17-21. JSTOR 2682899.
+
+    and our copy was prepared by the
+    [vega_datasets library](https://github.com/altair-viz/vega_datasets/blob/4f67bdaad10f45e3549984e17e1b3088c731503d/vega_datasets/_data/anscombe.json).
